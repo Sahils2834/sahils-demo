@@ -1,2 +1,3 @@
 # sahils-demo
-firstrepository
+first repository
+first time using the git repositary 
